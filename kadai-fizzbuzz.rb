@@ -11,5 +11,5 @@ def fizzbuzz(num)
 end
 num_max = 100
 (1..num_max).each do |num|
-  puts fizzbuzz(num)
+  print fizzbuzz(num)
 end
